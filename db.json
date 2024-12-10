@@ -1,0 +1,1083 @@
+{
+  "users": [
+    {
+      "id": "08t5",
+      "name": "naseef",
+      "email": "naseeftkvlm6899@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "orders": [],
+      "cart": []
+    },
+    {
+      "id": "08z5",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "orders": [],
+      "cart": []
+    },
+    {
+      "id": "08b3",
+      "name": "fuhad",
+      "email": "fuhad@gmail.com",
+      "password": "123456",
+      "blocked": false,
+      "orders": [
+        {
+          "orderId": "ORD-1732790608981",
+          "orderDate": "11/28/2024, 4:13:28 PM",
+          "deliveryDetails": {
+            "name": "naseef",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "state": "kerala",
+            "paymentMethod": "cashOnDelivery"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Air Jordan 4 RM",
+              "price": 12799,
+              "oldPrice": "₹ 15599.00",
+              "image": "https://images.vegnonveg.com/resized/700X573/11157/air-jordan-4-retro-whiteoxidized-green-neutral-grey-white_1-66558a949ef10.jpg",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading ,Vietnam",
+              "brand": "NIKE",
+              "stock": 2,
+              "color": "Black",
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 1
+            },
+            {
+              "id": "1",
+              "name": "Skyrocket Lite Unisex",
+              "price": 2749,
+              "oldPrice": "₹4999.00",
+              "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/379437/20/sv01/fnd/IND/fmt/png/Skyrocket-Lite-Uni-Running-Shoes",
+              "category": " Running",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "stock": 3,
+              "color": "Mauve Mist-Midnight Plum",
+              "details": " PUMA's most exciting new performance shoe, exactly what you need to go fast and go far. Offering great durability and traction wherever you",
+              "quantity": 1
+            },
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            },
+            {
+              "id": "7",
+              "name": "SP Running  SM 878",
+              "price": 1579,
+              "oldPrice": "₹ 1849.00",
+              "image": "https://m.media-amazon.com/images/I/81AoZ6XgaQL._SX625_.jpg",
+              "category": "M Running",
+              "seller": "Relaxo Footwears Limited",
+              "brand": "SPAREX",
+              "stock": 4,
+              "color": "Camel",
+              "details": " potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet",
+              "quantity": 1
+            },
+            {
+              "id": "10",
+              "name": " Court Shatter Low",
+              "price": 3119,
+              "oldPrice": "₹5999.00",
+              "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/399844/01/sv01/fnd/IND/fmt/png/PUMA-Court-Shatter-Low-Unisex-Sneakers",
+              "category": "Men's Sneakers",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "stock": 3,
+              "color": "white",
+              "details": "Exclusive design and durable material. free-moving fabrics which adjust according to your foot ",
+              "quantity": 1
+            },
+            {
+              "id": "6",
+              "name": "Nike Court Visione",
+              "price": 4999,
+              "oldPrice": "₹ 6799.00",
+              "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4284894e-e57e-4d95-ae7b-1e8fcc9eeb9a/NIKE+COURT+VISION+LO+NN.png",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading B.V. Singapore",
+              "brand": "NIKE",
+              "stock": 3,
+              "color": "white",
+              "details": " Exclusive design and durable material. free-moving fabrics which adjust according to your foot .",
+              "quantity": 1
+            },
+            {
+              "id": "11",
+              "name": "SPARX Sneakers SM 957",
+              "price": 1499,
+              "oldPrice": "₹1699.00",
+              "image": "https://relaxofootwear.com/cdn/shop/files/SN0957G-BKRD-1.jpg?v=1729764280&width=800",
+              "category": "Men's Sneakers",
+              "seller": "Relaxo Footwears Limited",
+              "brand": "SPAREX",
+              "color": "Magic Beige",
+              "stock": 5,
+              "details": "Comfortable, durable and timelessits sneakers . The classic  with bold details for style ",
+              "quantity": 1
+            },
+            {
+              "id": "4",
+              "name": "SPARX  shoes SM 878",
+              "price": 799,
+              "oldPrice": "₹ 999.00",
+              "image": "https://m.media-amazon.com/images/I/61VzAAvV6RL._SY625_.jpg",
+              "category": "Men Sneakers",
+              "seller": "Relaxo Footwears Limited",
+              "brand": "SPAREX",
+              "stock": 6,
+              "color": "NAVY BLUE2",
+              "details": " High Quality Mesh as upper material and EVA & TPR as sole material.",
+              "quantity": 1
+            },
+            {
+              "id": "18",
+              "name": " Blazer Mid '77 Vintage",
+              "price": 7995,
+              "oldPrice": "₹9999.00",
+              "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5dd1b4e-f9fd-4caa-b0f2-87c2a874194b/BLAZER+MID+%2777+VNTG.png",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading B.V. Singapore",
+              "brand": "NIKE",
+              "color": "Summit White",
+              "stock": 3,
+              "details": "The Nike Blazer Mid '77 Vintage—classic since the beginning.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 37937.5
+        },
+        {
+          "orderId": "ORD-1732790865052",
+          "orderDate": "11/28/2024, 4:17:45 PM",
+          "deliveryDetails": {
+            "name": "saleeth",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "state": "kerala",
+            "paymentMethod": "onlinePayment"
+          },
+          "items": [
+            {
+              "id": "18",
+              "name": " Blazer Mid '77 Vintage",
+              "price": 7995,
+              "oldPrice": "₹9999.00",
+              "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5dd1b4e-f9fd-4caa-b0f2-87c2a874194b/BLAZER+MID+%2777+VNTG.png",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading B.V. Singapore",
+              "brand": "NIKE",
+              "color": "Summit White",
+              "stock": 3,
+              "details": "The Nike Blazer Mid '77 Vintage—classic since the beginning.",
+              "quantity": 1
+            },
+            {
+              "id": "15",
+              "name": "SPARX Casual shoes",
+              "price": 891,
+              "oldPrice": "₹1049.00",
+              "image": "https://relaxofootwear.com/cdn/shop/files/SM-854-TBTN-1.jpg?v=1729763933&width=800",
+              "category": "Men's Casual",
+              "seller": "Relaxo Footwears Limited",
+              "brand": "SPAREX",
+              "color": "blue",
+              "stock": 5,
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 2
+            }
+          ],
+          "totalPrice": 9777
+        },
+        {
+          "orderId": "ORD-1732860996264",
+          "orderDate": "11/29/2024, 11:46:36 AM",
+          "deliveryDetails": {
+            "name": "badusha",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "cashOnDelivery"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Air Jordan 4 RM",
+              "price": 12799,
+              "oldPrice": "₹ 15599.00",
+              "image": "https://images.vegnonveg.com/resized/700X573/11157/air-jordan-4-retro-whiteoxidized-green-neutral-grey-white_1-66558a949ef10.jpg",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading ,Vietnam",
+              "brand": "NIKE",
+              "stock": 2,
+              "color": "Black",
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 2
+            }
+          ],
+          "totalPrice": 25598
+        },
+        {
+          "orderId": "ORD-1732861156071",
+          "orderDate": "11/29/2024, 11:49:16 AM",
+          "deliveryDetails": {
+            "name": "gopika",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "onlinePayment"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            },
+            {
+              "id": "27",
+              "name": " Suede Classic XXI",
+              "price": 2799,
+              "oldPrice": 7999,
+              "image": "https://m.media-amazon.com/images/I/71-WBfgTv0L._SY625_.jpg",
+              "category": "Men Sneakers",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "color": "Honey Mustard",
+              "stock": "6",
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 2
+            }
+          ],
+          "totalPrice": 7997.5
+        },
+        {
+          "orderId": "ORD-1732873183112",
+          "orderDate": "11/29/2024, 3:09:43 PM",
+          "deliveryDetails": {
+            "name": "rinsha",
+            "phone": "9539649288",
+            "email": "gopika@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "onlinePayment"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            },
+            {
+              "id": "20",
+              "name": "SOFTRIDE Enzo Evo ",
+              "price": 6999,
+              "oldPrice": "₹7599.00",
+              "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/377048/02/sv01/fnd/IND/fmt/png/SOFTRIDE-Enzo-Evo-Uni-Running-Shoes",
+              "category": "Men's shoes",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "color": "High Risk Red",
+              "stock": 3,
+              "details": "Exclusive design and durable material. free-moving fabrics which adjust according to your foot",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 9398.5
+        },
+        {
+          "orderId": "ORD-1732879430320",
+          "orderDate": "11/29/2024, 4:53:50 PM",
+          "deliveryDetails": {
+            "name": "yasir",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "onlinePayment"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 2399.5
+        },
+        {
+          "orderId": "ORD-1733115864410",
+          "orderDate": "12/2/2024, 10:34:24 AM",
+          "deliveryDetails": {
+            "name": "dilshad",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "cashOnDelivery"
+          },
+          "items": [
+            {
+              "id": "1",
+              "name": "Skyrocket Lite Unisex",
+              "price": 2749,
+              "oldPrice": "₹4999.00",
+              "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/379437/20/sv01/fnd/IND/fmt/png/Skyrocket-Lite-Uni-Running-Shoes",
+              "category": " Running",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "stock": 3,
+              "color": "Mauve Mist-Midnight Plum",
+              "details": " PUMA's most exciting new performance shoe, exactly what you need to go fast and go far. Offering great durability and traction wherever you",
+              "quantity": 1
+            },
+            {
+              "id": "4",
+              "name": "SPARX  shoes SM 878",
+              "price": 799,
+              "oldPrice": "₹ 999.00",
+              "image": "https://m.media-amazon.com/images/I/61VzAAvV6RL._SY625_.jpg",
+              "category": "Men Sneakers",
+              "seller": "Relaxo Footwears Limited",
+              "brand": "SPAREX",
+              "stock": 6,
+              "color": "NAVY BLUE2",
+              "details": " High Quality Mesh as upper material and EVA & TPR as sole material.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 3548
+        },
+        {
+          "orderId": "ORD-1733116112625",
+          "orderDate": "12/2/2024, 10:38:32 AM",
+          "deliveryDetails": {
+            "name": "faris",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "cashOnDelivery"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 2399.5
+        },
+        {
+          "orderId": "ORD-1733407123097",
+          "orderDate": "12/5/2024, 7:28:43 PM",
+          "deliveryDetails": {
+            "name": "JASIM",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "cashOnDelivery"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Air Jordan 4 RM",
+              "price": 12799,
+              "oldPrice": "₹ 15599.00",
+              "image": "https://images.vegnonveg.com/resized/700X573/11157/air-jordan-4-retro-whiteoxidized-green-neutral-grey-white_1-66558a949ef10.jpg",
+              "category": "casual",
+              "seller": "Nike Global Trading ,Vietnam",
+              "brand": "NIKE",
+              "stock": 20,
+              "color": "Black",
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 2
+            }
+          ],
+          "totalPrice": 25598
+        }
+      ],
+      "cart": [
+        {
+          "id": "10",
+          "name": " Court Shatter Low",
+          "price": 3119,
+          "oldPrice": "₹5999.00",
+          "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/399844/01/sv01/fnd/IND/fmt/png/PUMA-Court-Shatter-Low-Unisex-Sneakers",
+          "category": "sneakers",
+          "seller": "Puma India pvt ltd",
+          "brand": "PUMA",
+          "stock": 33,
+          "color": "white",
+          "details": "Exclusive design and durable material. free-moving fabrics which adjust according to your foot ",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "9e31",
+      "name": "JASIM",
+      "email": "jasim@gmail.com",
+      "password": "123456",
+      "blocked": false,
+      "orders": [],
+      "cart": []
+    },
+    {
+      "id": "9987",
+      "name": "gopika",
+      "email": "gopika@gmail.com",
+      "password": "123456",
+      "blocked": false,
+      "orders": [
+        {
+          "orderId": "ORD-1732862730025",
+          "orderDate": "11/29/2024, 12:15:30 PM",
+          "deliveryDetails": {
+            "name": "gopika",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "onlinePayment"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Air Jordan 4 RM",
+              "price": 12799,
+              "oldPrice": "₹ 15599.00",
+              "image": "https://images.vegnonveg.com/resized/700X573/11157/air-jordan-4-retro-whiteoxidized-green-neutral-grey-white_1-66558a949ef10.jpg",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading ,Vietnam",
+              "brand": "NIKE",
+              "stock": 2,
+              "color": "Black",
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 12799
+        }
+      ],
+      "cart": []
+    },
+    {
+      "id": "be72",
+      "name": "ramees",
+      "email": "rameeskt@gmail.com",
+      "password": "123456",
+      "blocked": false,
+      "orders": [
+        {
+          "orderId": "ORD-1733133147187",
+          "orderDate": "12/2/2024, 3:22:27 PM",
+          "deliveryDetails": {
+            "name": "ramees",
+            "phone": "9539649288",
+            "email": "rameeskt@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "cashOnDelivery"
+          },
+          "items": [
+            {
+              "id": "1",
+              "name": "Skyrocket Lite Unisex",
+              "price": 2749,
+              "oldPrice": "₹4999.00",
+              "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/379437/20/sv01/fnd/IND/fmt/png/Skyrocket-Lite-Uni-Running-Shoes",
+              "category": " Running",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "stock": 3,
+              "color": "Mauve Mist-Midnight Plum",
+              "details": " PUMA's most exciting new performance shoe, exactly what you need to go fast and go far. Offering great durability and traction wherever you",
+              "quantity": 1
+            },
+            {
+              "id": "31",
+              "name": "Pwrframe OP-1 Cyber",
+              "price": 6359,
+              "oldPrice": 10999,
+              "image": "https://m.media-amazon.com/images/I/71RzyNEeeJL._SY625_.jpg",
+              "category": "Men Sneakers",
+              "seller": "Puma India pvt ltd",
+              "brand": "PUMA",
+              "color": "Nimbus Cloud-Yellow ",
+              "stock": "4",
+              "details": " Premium suede and leather wrap your feet in retro comfort, while the signature rubber cupsole provides a soft stride. .",
+              "quantity": 1
+            },
+            {
+              "id": "5",
+              "name": "GAZELLE BOLD SHOES",
+              "price": 11999,
+              "oldPrice": "₹13999.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0faba7ce543d4efbad3695157ef23b55_9366/GAZELLE_BOLD_SHOES_Blue_IE0430_01_standard.jpg",
+              "category": "men Originals",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "stock": 2,
+              "color": "Bright Blue",
+              "details": " Premium suede and leather wrap your feet in retro comfort, while the signature rubber cupsole provides a soft stride. .",
+              "quantity": 1
+            },
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            },
+            {
+              "id": "2",
+              "name": "Air Jordan 4 RM",
+              "price": 12799,
+              "oldPrice": "₹ 15599.00",
+              "image": "https://images.vegnonveg.com/resized/700X573/11157/air-jordan-4-retro-whiteoxidized-green-neutral-grey-white_1-66558a949ef10.jpg",
+              "category": "Men's shoes",
+              "seller": "Nike Global Trading ,Vietnam",
+              "brand": "NIKE",
+              "stock": 2,
+              "color": "Black",
+              "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 36305.5
+        },
+        {
+          "orderId": "ORD-1733133193018",
+          "orderDate": "12/2/2024, 3:23:13 PM",
+          "deliveryDetails": {
+            "name": "naseef",
+            "phone": "9539649288",
+            "email": "naseeftkvlm6899@gmail.com",
+            "address": "valamangalam",
+            "district": "malappuram",
+            "paymentMethod": "onlinePayment"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "WISEFOMA SHOES",
+              "price": 2399.5,
+              "oldPrice": "₹4799.00",
+              "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+              "category": " Running",
+              "seller": "Addidas Global Trading",
+              "brand": "ADIDAS",
+              "color": "Blue",
+              "stock": 4,
+              "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 2399.5
+        }
+      ],
+      "cart": [
+        {
+          "id": "3",
+          "name": "WISEFOMA SHOES",
+          "price": 2399.5,
+          "oldPrice": "₹4799.00",
+          "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+          "category": " Running",
+          "seller": "Addidas Global Trading",
+          "brand": "ADIDAS",
+          "color": "Blue",
+          "stock": 4,
+          "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground.",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "name": "Skyrocket Lite Unisex",
+      "price": 2749,
+      "oldPrice": "₹4999.00",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/379437/20/sv01/fnd/IND/fmt/png/Skyrocket-Lite-Uni-Running-Shoes",
+      "category": " running",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "stock": 34,
+      "color": "Mauve Mist-Midnight Plum",
+      "details": " PUMA's most exciting new performance shoe, exactly what you need to go fast and go far. Offering great durability and traction wherever you"
+    },
+    {
+      "id": "2",
+      "name": "Air Jordan 4 RM",
+      "price": 12799,
+      "oldPrice": "₹ 15599.00",
+      "image": "https://images.vegnonveg.com/resized/700X573/11157/air-jordan-4-retro-whiteoxidized-green-neutral-grey-white_1-66558a949ef10.jpg",
+      "category": "casual",
+      "seller": "Nike Global Trading ,Vietnam",
+      "brand": "NIKE",
+      "stock": "20",
+      "color": "Black",
+      "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit."
+    },
+    {
+      "id": "3",
+      "name": "WISEFOMA SHOES",
+      "price": 2399.5,
+      "oldPrice": "₹4799.00",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4d80f9b3b6ad482f9111d9e0aa20ee6f_9366/WISEFOMA_SHOES_Blue_IU6374_01_standard.jpg",
+      "category": " running",
+      "seller": "Addidas Global Trading",
+      "brand": "ADIDAS",
+      "color": "Blue",
+      "stock": 43,
+      "details": "The durable blown out one piece super grip EVA midsole and outsole ensures maximum stability and grip on the ground."
+    },
+    {
+      "id": "4",
+      "name": "SPARX  shoes SM 878",
+      "price": 799,
+      "oldPrice": "₹ 999.00",
+      "image": "https://m.media-amazon.com/images/I/61VzAAvV6RL._SY625_.jpg",
+      "category": "sneakers",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "stock": 16,
+      "color": "NAVY BLUE2",
+      "details": " High Quality Mesh as upper material and EVA & TPR as sole material."
+    },
+    {
+      "id": "5",
+      "name": "GAZELLE BOLD SHOES",
+      "price": 11999,
+      "oldPrice": "₹13999.00",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0faba7ce543d4efbad3695157ef23b55_9366/GAZELLE_BOLD_SHOES_Blue_IE0430_01_standard.jpg",
+      "category": "casual",
+      "seller": "Addidas Global Trading",
+      "brand": "ADIDAS",
+      "stock": 23,
+      "color": "Bright Blue",
+      "details": " Premium suede and leather wrap your feet in retro comfort, while the signature rubber cupsole provides a soft stride. ."
+    },
+    {
+      "id": "6",
+      "name": "Nike Court Visione",
+      "price": 4999,
+      "oldPrice": "₹ 6799.00",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4284894e-e57e-4d95-ae7b-1e8fcc9eeb9a/NIKE+COURT+VISION+LO+NN.png",
+      "category": "casual",
+      "seller": "Nike Global Trading B.V. Singapore",
+      "brand": "NIKE",
+      "stock": 31,
+      "color": "white",
+      "details": " Exclusive design and durable material. free-moving fabrics which adjust according to your foot ."
+    },
+    {
+      "id": "7",
+      "name": "SP Running  SM 878",
+      "price": 1579,
+      "oldPrice": "₹ 1849.00",
+      "image": "https://m.media-amazon.com/images/I/81AoZ6XgaQL._SX625_.jpg",
+      "category": "running",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "stock": 41,
+      "color": "Camel",
+      "details": " potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet"
+    },
+    {
+      "id": "8",
+      "name": "LAUFEN SPEED SHOES",
+      "price": 2399.5,
+      "oldPrice": "₹4799.00",
+      "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/9441340a71fb4744bbbddffd43606fd9_9366/LAUFEN_SPEED_SHOES_Green_IU6324_01_standard.jpg",
+      "category": " running",
+      "seller": "Addidas Global Trading",
+      "brand": "ADIDAS",
+      "color": "Magic Beige",
+      "stock": 32,
+      "details": " A soft, sock-like knit upper gently holds the foot in place. provide all-around comfort.  .Made with a series of recycled materials"
+    },
+    {
+      "id": "9",
+      "name": "Nike Air Monarch IV",
+      "price": 5295,
+      "oldPrice": "₹ 6599.00",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f9a8deaa-87f2-4191-92b8-c7661aae48de/AIR+MONARCH+IV.png",
+      "category": "running",
+      "color": "white",
+      "seller": "Nike Global Trading ,Vietnam",
+      "brand": "NIKE",
+      "stock": 24,
+      "details": "potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet"
+    },
+    {
+      "id": "10",
+      "name": " Court Shatter Low",
+      "price": 3119,
+      "oldPrice": "₹5999.00",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/399844/01/sv01/fnd/IND/fmt/png/PUMA-Court-Shatter-Low-Unisex-Sneakers",
+      "category": "sneakers",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "stock": 33,
+      "color": "white",
+      "details": "Exclusive design and durable material. free-moving fabrics which adjust according to your foot "
+    },
+    {
+      "id": "11",
+      "name": "SPARX Sneakers SM 957",
+      "price": 1499,
+      "oldPrice": "₹1699.00",
+      "image": "https://relaxofootwear.com/cdn/shop/files/SN0957G-BKRD-1.jpg?v=1729764280&width=800",
+      "category": "sneakers",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "color": "Magic Beige",
+      "stock": 35,
+      "details": "Comfortable, durable and timelessits sneakers . The classic  with bold details for style "
+    },
+    {
+      "id": "12",
+      "name": "MPN11",
+      "price": 2299.5,
+      "oldPrice": "₹4599.00",
+      "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/0264d8880cf4480cac7f17171ce9b2d3_9366/MPN11_White_IU6505_01_standard.jpg",
+      "category": "casual",
+      "seller": "Adidas Global Trading",
+      "color": "white",
+      "brand": "ADIDAS",
+      "stock": 32,
+      "details": " take your everyday style and kick it up a notch. , the Gazelle seamlessly transitions from day to night. Premium suede and leather wrap your feet in retro comfort"
+    },
+    {
+      "id": "13",
+      "name": "Air Jordan 1 Retro  OG ",
+      "price": 16995,
+      "oldPrice": "₹ 18000.00",
+      "image": "https://letkicks.com/cdn/shop/files/StockXAndre4-2024-02-29T101804.186.png?v=1709219932",
+      "category": "casual",
+      "seller": "Nike Global Trading ,Vietnam",
+      "brand": "NIKE",
+      "stock": 13,
+      "color": " University Blue",
+      "details": "Premium construction delivers comfort and iconic appeal.Encapsulated Nike Air-Sole unit in the heel gives you soft cushioning."
+    },
+    {
+      "id": "14",
+      "name": "Palermo Vintage",
+      "price": 6999,
+      "oldPrice": "7599.00",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/396841/05/sv01/fnd/IND/fmt/png/Palermo-Vintage-Unisex-Sneakers",
+      "category": "sneakers",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "stock": 13,
+      "color": "vory-Gum",
+      "details": "Comfortable, durable and timelessits sneakers . The classic  with bold details for style "
+    },
+    {
+      "id": "15",
+      "name": "SPARX Casual shoes",
+      "price": 891,
+      "oldPrice": "₹1049.00",
+      "image": "https://relaxofootwear.com/cdn/shop/files/SM-854-TBTN-1.jpg?v=1729763933&width=800",
+      "category": "casual",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "color": "blue",
+      "stock": 15,
+      "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit."
+    },
+    {
+      "id": "16",
+      "name": "RS-XK X one8 Res",
+      "price": 7199,
+      "oldPrice": "₹11999.00",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/397165/01/sv01/fnd/IND/fmt/png/RS-XK-X-one8-Res-Unisex-Sneakers",
+      "category": "sneakers",
+      "seller": "Puma India pvt ltd",
+      "color": "Warm White",
+      "brand": "PUMA",
+      "stock": 13,
+      "details": "Puma's most exciting new performance shoe, exactly what you need to go fast and go far. Offering great durability and traction wherever you"
+    },
+    {
+      "id": "17",
+      "name": "Samba OG Shoes",
+      "price": 10999,
+      "oldPrice": "₹11999.00",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3d22ad048e2d41e4ab61afb200f9b333_9366/Samba_OG_Shoes_White_IG1025.jpg",
+      "category": "sneakers",
+      "seller": "Addidas Global Trading",
+      "brand": "ADIDAS",
+      "color": "Supplier Colour",
+      "stock": 13,
+      "details": "the Samba is a timeless icon of street style.  low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch."
+    },
+    {
+      "id": "18",
+      "name": " Blazer Mid '77 Vintage",
+      "price": 7995,
+      "oldPrice": "₹9999.00",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f5dd1b4e-f9fd-4caa-b0f2-87c2a874194b/BLAZER+MID+%2777+VNTG.png",
+      "category": "casual",
+      "seller": "Nike Global Trading B.V. Singapore",
+      "brand": "NIKE",
+      "color": "Summit White",
+      "stock": 13,
+      "details": "The Nike Blazer Mid '77 Vintage—classic since the beginning."
+    },
+    {
+      "id": "19",
+      "name": "SPAREX FLITE",
+      "price": 549.5,
+      "oldPrice": "₹849.00",
+      "image": "https://relaxofootwear.com/cdn/shop/files/PUC0020G-BKBK-1.jpg?v=1729764338&width=800",
+      "category": "sneakers",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "color": "Black",
+      "stock": 17,
+      "details": "Youthful look with cosy comfort & lightweight sole."
+    },
+    {
+      "id": "20",
+      "name": "SOFTRIDE Enzo Evo ",
+      "price": 6999,
+      "oldPrice": "₹7599.00",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/377048/02/sv01/fnd/IND/fmt/png/SOFTRIDE-Enzo-Evo-Uni-Running-Shoes",
+      "category": " running",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "color": "High Risk Red",
+      "stock": 13,
+      "details": "Exclusive design and durable material. free-moving fabrics which adjust according to your foot"
+    },
+    {
+      "id": "21",
+      "name": "OZWEEGO Shoes",
+      "price": 9099.5,
+      "oldPrice": 12999,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/86dbbccdb3db4f5f846eaa7600ee8b42_9366/OZWEEGO_Shoes_Black_EE6999_01_00_standard.jpg",
+      "category": "running",
+      "seller": "Addidas Global Trading",
+      "brand": "ADIDAS",
+      "color": "BLACK",
+      "stock": 23,
+      "details": "Adiprene and Adiprene+ heel and forefoot cushioning"
+    },
+    {
+      "id": "22",
+      "name": " Speedsweep VII",
+      "price": 6645,
+      "oldPrice": 7600,
+      "image": "https://www.roninwear.com/imagenes_miniaturas/nike-speedsweep-vii-wrestling-shoes-black-black-1-lg.jpg?v=1662699402",
+      "category": "sneakers",
+      "seller": "Nike Global Trading B.V. Singapore",
+      "brand": "NIKE",
+      "color": "BLACK",
+      "stock": 6,
+      "details": " Exclusive design and durable material. free-moving fabrics which adjust according to your foot ."
+    },
+    {
+      "id": "23",
+      "name": "Velocity Nitro 2",
+      "price": 11999,
+      "oldPrice": 13999,
+      "image": "https://m.media-amazon.com/images/I/71+Qvi-u6dL._SY625_.jpg",
+      "category": " running",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "color": "Cherry Tomato",
+      "stock": 14,
+      "details": " PUMA's most exciting new performance shoe, exactly what you need to go fast and go far. Offering great durability and traction wherever you"
+    },
+    {
+      "id": "24",
+      "name": "ASTOUNDRUN SHOES",
+      "price": 1710,
+      "oldPrice": 3799,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/afeba24076b24b328936ff0387ef2d74_9366/ASTOUNDRUN_SHOES_Grey_IU6246_01_standard.jpg",
+      "category": "casual",
+      "seller": "Adidas Global Trading",
+      "brand": "ADIDAS",
+      "color": "Semi Impact Orange",
+      "stock": 24,
+      "details": "These lightweight running shoes for men give all round comfort, cushioning"
+    },
+    {
+      "id": "25",
+      "name": "Mesh Walking Shoe",
+      "price": 933,
+      "oldPrice": 999,
+      "image": "https://m.media-amazon.com/images/I/612dWsWvGRL._SY625_.jpg",
+      "category": "running",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "color": "GREY",
+      "stock": 16,
+      "details": " potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet"
+    },
+    {
+      "id": "26",
+      "name": "Air Max Impact 4",
+      "price": 5267,
+      "oldPrice": 5999,
+      "image": "https://m.media-amazon.com/images/I/71agIRDWYwL._SY625_.jpg",
+      "category": "running",
+      "seller": "Nike Global Trading ,Vietnam",
+      "brand": "NIKE",
+      "color": "DARK RAISIN",
+      "stock": 26,
+      "details": " potent design and latest fashion trends. Made for long-term wear, with extra emphasis on providing cushion to the feet"
+    },
+    {
+      "id": "27",
+      "name": " Suede Classic XXI",
+      "price": 2799,
+      "oldPrice": 7999,
+      "image": "https://m.media-amazon.com/images/I/71-WBfgTv0L._SY625_.jpg",
+      "category": "sneakers",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "color": "Honey Mustard",
+      "stock": 16,
+      "details": "Change up your everyday style & opt for this fashionable slip on design. Bold & vibrant colour with sleek sole makes it ideal with any outfit."
+    },
+    {
+      "id": "28",
+      "name": "M Running Shoe",
+      "price": 1146,
+      "oldPrice": 1499,
+      "image": "https://m.media-amazon.com/images/I/71uXqhGZ7XL._SX625_.jpg",
+      "category": " running",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "color": "GREY RED",
+      "stock": 15,
+      "details": "Adiprene and Adiprene+ heel and forefoot cushioning"
+    },
+    {
+      "id": "29",
+      "name": "Sparx Mens SM 661 ",
+      "price": 1278,
+      "oldPrice": 1599,
+      "image": "https://m.media-amazon.com/images/I/61+0I8p9GoL._SX625_.jpg",
+      "category": "sneakers",
+      "seller": "Relaxo Footwears Limited",
+      "brand": "SPAREX",
+      "color": "black",
+      "stock": 14,
+      "details": "quality Synthetic Leather as upper material and EVA & TPR as sole material."
+    },
+    {
+      "id": "30",
+      "name": "Superstar Shoes",
+      "price": 6299.5,
+      "oldPrice": 8999,
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Superstar_Shoes_White_EG4958_01_standard.jpg",
+      "category": "running",
+      "seller": "Addidas Global Trading",
+      "brand": "ADIDAS",
+      "color": "Cloud White",
+      "stock": 13,
+      "details": "classic leather Superstar changed the game the moment it stepped off the court."
+    },
+    {
+      "id": "31",
+      "name": "Pwrframe OP-1 Cyber",
+      "price": 6359,
+      "oldPrice": 10999,
+      "image": "https://m.media-amazon.com/images/I/71RzyNEeeJL._SY625_.jpg",
+      "category": "casual",
+      "seller": "Puma India pvt ltd",
+      "brand": "PUMA",
+      "color": "Nimbus Cloud-Yellow ",
+      "stock": 14,
+      "details": " Premium suede and leather wrap your feet in retro comfort, while the signature rubber cupsole provides a soft stride. ."
+    },
+    {
+      "id": "32",
+      "name": "naseef",
+      "price": 7499,
+      "oldPrice": 8695,
+      "image": "https://m.media-amazon.com/images/I/81zONBZD4dL._SX625_.jpg",
+      "category": "running",
+      "seller": "Nike Global Trading ,Vietnam",
+      "brand": "NIKE",
+      "color": " PHOTON DUST",
+      "stock": 15,
+      "details": " High Quality Mesh as upper material and EVA & TPR as sole material."
+    }
+  ]
+}
